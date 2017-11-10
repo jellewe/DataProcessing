@@ -1,6 +1,8 @@
 /**
- * Jelle Witsen Elias
+ * Author: Jelle Witsen Elias
  * 10/11/2017
+ * University of Amsterdam: data processing
+ * Studentno. 10753532
  *
  * Draws a line graph with weather data in an HTML canvas
  */
