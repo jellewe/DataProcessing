@@ -1,0 +1,6 @@
+1. No type conversions are done when === is used
+2. A function as a value, so it can be used as a parameter to a function, for instance
+3. Functions that operate on other functions, either by taking them as arguments or by returning them
+4. It returns elements in the DOM. an example line:
+document.querySelectorAll("p")
+returns all <p> elements
