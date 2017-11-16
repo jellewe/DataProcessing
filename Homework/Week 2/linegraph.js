@@ -100,7 +100,7 @@ for (var i = 0, arrayLength = dateTempInfo.length; i < arrayLength; i++) {
               (dateMax.getTime() - dateMin.getTime())
 
   // draw line in canvas
-  ctx.lineTo((dateFloat * (horSize - AXISSPACE)) + AXISSPACE, tempFloat *
+  ctx.lineTo((dateFloat * (horSize - AXISSPACE)) + AXISSPACE, (1 - tempFloat) *
               (verSize - AXISSPACE))
   ctx.stroke()
 }
