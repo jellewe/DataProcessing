@@ -1,3 +1,12 @@
+"""
+Jelle Witsen Elias
+University of Amsterdam
+studentno. 10753532
+17-11-2017
+
+converts data from a KNMI data csv file to a json
+"""
+
 import csv
 import json
 

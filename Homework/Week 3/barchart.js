@@ -1,6 +1,15 @@
+/**
+ * Jelle Witsen Elias
+ * University of Amsterdam
+ * studentno. 10753532
+ * 17-11-2017
+ *
+ * Draws a barchart with KNMI weather data in an html svg.
+ */
+
 d3.json("KNMI_data.json", function(data) {
   // margins around chart in pixels
-  var margin = {top: 40, right: 30, bottom: 100, left: 40}
+  var margin = {top: 70, right: 30, bottom: 100, left: 40}
 
   // width and height of chart in pixels
   var width = 900 - margin.left - margin.right
@@ -93,8 +102,7 @@ d3.json("KNMI_data.json", function(data) {
     .data(data)
     .enter().append("rect")
 
-  // draw bars in chart
-  barSelection
+  // draw bars in chart. Also implements interaction
     .attr("x", function(d, i) { return i * barWidth })
     .attr("y", function(d) { return yScale(d.rainfall) })
     .attr("height", function(d) { return height - yScale(d.rainfall) })
