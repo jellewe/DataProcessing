@@ -1,6 +1,6 @@
 d3.json("KNMI_data.json", function(data) {
   // margins around chart in pixels
-  var margin = {top: 20, right: 30, bottom: 100, left: 40}
+  var margin = {top: 40, right: 30, bottom: 100, left: 40}
 
   // width and height of chart in pixels
   var width = 900 - margin.left - margin.right
@@ -43,17 +43,26 @@ d3.json("KNMI_data.json", function(data) {
              d3.max(data, function(d) { return d.date })])
     .range([barWidth / 2, width - barWidth / 2])
 
+  // convert data numbers to strings with dashes between elements
+  for (i = 0; i < data.length; i++){
+      data[i].date = String(data[i].date)
+      date = data[i].date
+      date = date.slice(0, 4) + "-" + date.slice(4, 6) + "-" + date.slice(6, 8)
+      data[i].date = date
+  }
+
   // variables for x and y axes
   var xAxis = d3.svg.axis()
     .scale(xScale)
     .ticks(data.length)
+    .tickFormat(function(d, i) { return data[i].date })
     .orient("bottom")
   var yAxis = d3.svg.axis()
     .scale(yScale)
     .orient("left")
     .ticks(10)
 
-    // append x axis
+  // append x axis
   chart.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
@@ -66,8 +75,14 @@ d3.json("KNMI_data.json", function(data) {
 
   // append y axis
   chart.append("g")
-    .attr("class", "y axis")
-    .call(yAxis)
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("yScale", 6)
+      .attr("dy", "1.5em")
+      .style("text-anchor", "end")
+      .text("Rainfall (mm)")
 
   // make group element for bars
   chart.append("g")
