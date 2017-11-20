@@ -1,0 +1,852 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Value">667.883419646451</field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Value">4594.96620955242</field>
+        </record>
+        <record>
+            <field name="Country or Area">Algeria</field>
+            <field name="Value">5495.99905835606</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Value">46033.5741227986</field>
+        </record>
+        <record>
+            <field name="Country or Area">Angola</field>
+            <field name="Value">6014.3239396983</field>
+        </record>
+        <record>
+            <field name="Country or Area">Anguilla</field>
+            <field name="Value">21531.4276932534</field>
+        </record>
+        <record>
+            <field name="Country or Area">Antigua and Barbuda</field>
+            <field name="Value">14019.0353827975</field>
+        </record>
+        <record>
+            <field name="Country or Area">Argentina</field>
+            <field name="Value">13278.7938786179</field>
+        </record>
+        <record>
+            <field name="Country or Area">Armenia</field>
+            <field name="Value">3861.91567067933</field>
+        </record>
+        <record>
+            <field name="Country or Area">Aruba</field>
+            <field name="Value">25615.7681228049</field>
+        </record>
+        <record>
+            <field name="Country or Area">Australia</field>
+            <field name="Value">61436.5431594243</field>
+        </record>
+        <record>
+            <field name="Country or Area">Austria</field>
+            <field name="Value">51471.2342503221</field>
+        </record>
+        <record>
+            <field name="Country or Area">Azerbaijan</field>
+            <field name="Value">7813.23615929342</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bahamas</field>
+            <field name="Value">22497.4497825372</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bahrain</field>
+            <field name="Value">24514.9796026321</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bangladesh</field>
+            <field name="Value">1087.9071871175</field>
+        </record>
+        <record>
+            <field name="Country or Area">Barbados</field>
+            <field name="Value">15360.1171571741</field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Value">8010.58790912708</field>
+        </record>
+        <record>
+            <field name="Country or Area">Belgium</field>
+            <field name="Value">47367.3850656175</field>
+        </record>
+        <record>
+            <field name="Country or Area">Belize</field>
+            <field name="Value">4884.36856209448</field>
+        </record>
+        <record>
+            <field name="Country or Area">Benin</field>
+            <field name="Value">903.45623159397</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bermuda</field>
+            <field name="Value">90600.3911760934</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bhutan</field>
+            <field name="Value">2560.52037390301</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia (Plurinational State of)</field>
+            <field name="Value">3124.08076441174</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bosnia and Herzegovina</field>
+            <field name="Value">4851.76179516914</field>
+        </record>
+        <record>
+            <field name="Country or Area">Botswana</field>
+            <field name="Value">7149.63580419474</field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Value">11729.0367772011</field>
+        </record>
+        <record>
+            <field name="Country or Area">British Virgin Islands</field>
+            <field name="Value">30501.4759844516</field>
+        </record>
+        <record>
+            <field name="Country or Area">Brunei Darussalam</field>
+            <field name="Value">41021.9667994711</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Value">7876.02695224599</field>
+        </record>
+        <record>
+            <field name="Country or Area">Burkina Faso</field>
+            <field name="Value">716.132437153801</field>
+        </record>
+        <record>
+            <field name="Country or Area">Burundi</field>
+            <field name="Value">258.715970097545</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cabo Verde</field>
+            <field name="Value">3661.17589847041</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cambodia</field>
+            <field name="Value">1089.6700578864</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cameroon</field>
+            <field name="Value">1407.40354739718</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Value">50379.1630406635</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cayman Islands</field>
+            <field name="Value">61681.3942982261</field>
+        </record>
+        <record>
+            <field name="Country or Area">Central African Republic</field>
+            <field name="Value">365.404443115084</field>
+        </record>
+        <record>
+            <field name="Country or Area">Chad</field>
+            <field name="Value">941.585703599031</field>
+        </record>
+        <record>
+            <field name="Country or Area">Chile</field>
+            <field name="Value">14566.1486430389</field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Hong Kong SAR</field>
+            <field name="Value">40298.1065986172</field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Macao Special Administrative Region</field>
+            <field name="Value">96074.5531203209</field>
+        </record>
+        <record>
+            <field name="Country or Area">China, People's Republic of</field>
+            <field name="Value">7692.6042235519</field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Value">7918.07870983254</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Value">1593.21095415734</field>
+        </record>
+        <record>
+            <field name="Country or Area">Congo</field>
+            <field name="Value">3124.80393300275</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cook Islands</field>
+            <field name="Value">15322.6609967662</field>
+        </record>
+        <record>
+            <field name="Country or Area">Costa Rica</field>
+            <field name="Value">10437.4342150194</field>
+        </record>
+        <record>
+            <field name="Country or Area">Côte d'Ivoire</field>
+            <field name="Value">1541.87135050893</field>
+        </record>
+        <record>
+            <field name="Country or Area">Croatia</field>
+            <field name="Value">13412.2857169612</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cuba</field>
+            <field name="Value">7088.07568535011</field>
+        </record>
+        <record>
+            <field name="Country or Area">Curaçao</field>
+            <field name="Value">20276.9979545992</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cyprus</field>
+            <field name="Value">26408.1913769598</field>
+        </record>
+        <record>
+            <field name="Country or Area">Czech Republic</field>
+            <field name="Value">19712.1231692093</field>
+        </record>
+        <record>
+            <field name="Country or Area">Democratic People's Republic of Korea</field>
+            <field name="Value">695.892511265703</field>
+        </record>
+        <record>
+            <field name="Country or Area">Democratic Republic of the Congo</field>
+            <field name="Value">479.578018246295</field>
+        </record>
+        <record>
+            <field name="Country or Area">Denmark</field>
+            <field name="Value">62387.6874441971</field>
+        </record>
+        <record>
+            <field name="Country or Area">Djibouti</field>
+            <field name="Value">1813.59622614428</field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominica</field>
+            <field name="Value">7234.25627698447</field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominican Republic</field>
+            <field name="Value">6147.34883383601</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ecuador</field>
+            <field name="Value">6432.29581291884</field>
+        </record>
+        <record>
+            <field name="Country or Area">Egypt</field>
+            <field name="Value">3315.24823414757</field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Value">4102.06865883852</field>
+        </record>
+        <record>
+            <field name="Country or Area">Equatorial Guinea</field>
+            <field name="Value">26195.6786668087</field>
+        </record>
+        <record>
+            <field name="Country or Area">Eritrea</field>
+            <field name="Value">792.843660245377</field>
+        </record>
+        <record>
+            <field name="Country or Area">Estonia</field>
+            <field name="Value">19916.3831673136</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ethiopia</field>
+            <field name="Value">560.298121883743</field>
+        </record>
+        <record>
+            <field name="Country or Area">Fiji</field>
+            <field name="Value">5042.23855100446</field>
+        </record>
+        <record>
+            <field name="Country or Area">Finland</field>
+            <field name="Value">49722.6740305182</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Value">42801.1408185829</field>
+        </record>
+        <record>
+            <field name="Country or Area">French Polynesia</field>
+            <field name="Value">21585.8666403282</field>
+        </record>
+        <record>
+            <field name="Country or Area">Gabon</field>
+            <field name="Value">10317.4603481791</field>
+        </record>
+        <record>
+            <field name="Country or Area">Gambia</field>
+            <field name="Value">440.37079368301</field>
+        </record>
+        <record>
+            <field name="Country or Area">Georgia</field>
+            <field name="Value">4091.83203361691</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Value">48102.3731415959</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Value">1396.90681557129</field>
+        </record>
+        <record>
+            <field name="Country or Area">Greece</field>
+            <field name="Value">21460.2816055924</field>
+        </record>
+        <record>
+            <field name="Country or Area">Greenland</field>
+            <field name="Value">43429.6860051611</field>
+        </record>
+        <record>
+            <field name="Country or Area">Grenada</field>
+            <field name="Value">8312.6380195464</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guatemala</field>
+            <field name="Value">3666.57879979768</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea</field>
+            <field name="Value">723.062805605623</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea-Bissau</field>
+            <field name="Value">570.400681042262</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guyana</field>
+            <field name="Value">4028.16493966129</field>
+        </record>
+        <record>
+            <field name="Country or Area">Haiti</field>
+            <field name="Value">819.277815018187</field>
+        </record>
+        <record>
+            <field name="Country or Area">Honduras</field>
+            <field name="Value">2448.88050638079</field>
+        </record>
+        <record>
+            <field name="Country or Area">Hungary</field>
+            <field name="Value">14085.039860354</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iceland</field>
+            <field name="Value">52486.0294524877</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Value">1579.7652934053</field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Value">3499.58873585754</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Value">5442.87476140335</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iraq</field>
+            <field name="Value">5465.10495062003</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ireland</field>
+            <field name="Value">54815.478177627</field>
+        </record>
+        <record>
+            <field name="Country or Area">Israel</field>
+            <field name="Value">38890.0947313003</field>
+        </record>
+        <record>
+            <field name="Country or Area">Italy</field>
+            <field name="Value">35956.8857017404</field>
+        </record>
+        <record>
+            <field name="Country or Area">Jamaica</field>
+            <field name="Value">4993.19190430103</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Value">38240.8619309857</field>
+        </record>
+        <record>
+            <field name="Country or Area">Jordan</field>
+            <field name="Value">4830.97362967091</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kazakhstan</field>
+            <field name="Value">12745.82343279</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kenya</field>
+            <field name="Value">1368.49162894375</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kiribati</field>
+            <field name="Value">1684.37685243542</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kosovo</field>
+            <field name="Value">4183.42537109282</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kuwait</field>
+            <field name="Value">43338.8782100301</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kyrgyzstan</field>
+            <field name="Value">1277.99312808087</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lao People's Democratic Republic</field>
+            <field name="Value">1771.96535869641</field>
+        </record>
+        <record>
+            <field name="Country or Area">Latvia</field>
+            <field name="Value">15744.4940795946</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lebanon</field>
+            <field name="Value">8675.58866806937</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lesotho</field>
+            <field name="Value">1034.18952150919</field>
+        </record>
+        <record>
+            <field name="Country or Area">Liberia</field>
+            <field name="Value">457.858586520261</field>
+        </record>
+        <record>
+            <field name="Country or Area">Libya</field>
+            <field name="Value">7684.05629021062</field>
+        </record>
+        <record>
+            <field name="Country or Area">Liechtenstein</field>
+            <field name="Value">178722.777179172</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lithuania</field>
+            <field name="Value">16657.3529972299</field>
+        </record>
+        <record>
+            <field name="Country or Area">Luxembourg</field>
+            <field name="Value">117454.182233867</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Value">452.810401179509</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malawi</field>
+            <field name="Value">357.314889289776</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Value">11306.0391512557</field>
+        </record>
+        <record>
+            <field name="Country or Area">Maldives</field>
+            <field name="Value">8657.09408479853</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mali</field>
+            <field name="Value">842.11441752076</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malta</field>
+            <field name="Value">25703.9317734428</field>
+        </record>
+        <record>
+            <field name="Country or Area">Marshall Islands</field>
+            <field name="Value">3529.74830806458</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritania</field>
+            <field name="Value">1434.45391390535</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritius</field>
+            <field name="Value">9942.67753664487</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Value">10325.6847387445</field>
+        </record>
+        <record>
+            <field name="Country or Area">Micronesia (Federated States of)</field>
+            <field name="Value">3056.93744954058</field>
+        </record>
+        <record>
+            <field name="Country or Area">Monaco</field>
+            <field name="Value">187649.795491031</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mongolia</field>
+            <field name="Value">4201.73769163272</field>
+        </record>
+        <record>
+            <field name="Country or Area">Montenegro</field>
+            <field name="Value">7336.96328190342</field>
+        </record>
+        <record>
+            <field name="Country or Area">Montserrat</field>
+            <field name="Value">11579.3453445593</field>
+        </record>
+        <record>
+            <field name="Country or Area">Morocco</field>
+            <field name="Value">3243.06189021651</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mozambique</field>
+            <field name="Value">623.198181094288</field>
+        </record>
+        <record>
+            <field name="Country or Area">Myanmar</field>
+            <field name="Value">1240.70909066696</field>
+        </record>
+        <record>
+            <field name="Country or Area">Namibia</field>
+            <field name="Value">5349.46957718992</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nauru</field>
+            <field name="Value">17856.785571782</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nepal</field>
+            <field name="Value">700.556991553105</field>
+        </record>
+        <record>
+            <field name="Country or Area">Netherlands</field>
+            <field name="Value">52148.0935003033</field>
+        </record>
+        <record>
+            <field name="Country or Area">New Caledonia</field>
+            <field name="Value">39398.4553102516</field>
+        </record>
+        <record>
+            <field name="Country or Area">New Zealand</field>
+            <field name="Value">44207.3869171996</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nicaragua</field>
+            <field name="Value">1960.49088001535</field>
+        </record>
+        <record>
+            <field name="Country or Area">Niger</field>
+            <field name="Value">431.38172326364</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Value">3203.24344156614</field>
+        </record>
+        <record>
+            <field name="Country or Area">Norway</field>
+            <field name="Value">96803.157630779</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Value">19129.660035049</field>
+        </record>
+        <record>
+            <field name="Country or Area">Pakistan</field>
+            <field name="Value">1339.96512041786</field>
+        </record>
+        <record>
+            <field name="Country or Area">Palau</field>
+            <field name="Value">11091.6244015737</field>
+        </record>
+        <record>
+            <field name="Country or Area">Panama</field>
+            <field name="Value">12712.4313235691</field>
+        </record>
+        <record>
+            <field name="Country or Area">Papua New Guinea</field>
+            <field name="Value">2975.41195443793</field>
+        </record>
+        <record>
+            <field name="Country or Area">Paraguay</field>
+            <field name="Value">4712.87024057153</field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Value">6537.62051387178</field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Value">2873.09114610505</field>
+        </record>
+        <record>
+            <field name="Country or Area">Poland</field>
+            <field name="Value">14115.798693194</field>
+        </record>
+        <record>
+            <field name="Country or Area">Portugal</field>
+            <field name="Value">22074.8173869676</field>
+        </record>
+        <record>
+            <field name="Country or Area">Puerto Rico</field>
+            <field name="Value">27692.4262115162</field>
+        </record>
+        <record>
+            <field name="Country or Area">Qatar</field>
+            <field name="Value">94944.0855935367</field>
+        </record>
+        <record>
+            <field name="Country or Area">Republic of Korea</field>
+            <field name="Value">28184.7381763584</field>
+        </record>
+        <record>
+            <field name="Country or Area">Republic of Moldova</field>
+            <field name="Value">1960.35299634926</field>
+        </record>
+        <record>
+            <field name="Country or Area">Romania</field>
+            <field name="Value">10143.0107536705</field>
+        </record>
+        <record>
+            <field name="Country or Area">Russian Federation</field>
+            <field name="Value">14160.0846081021</field>
+        </record>
+        <record>
+            <field name="Country or Area">Rwanda</field>
+            <field name="Value">696.850622965052</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Kitts and Nevis</field>
+            <field name="Value">15429.8593652257</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Lucia</field>
+            <field name="Value">7649.15602869062</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Vincent and the Grenadines</field>
+            <field name="Value">6656.11578476794</field>
+        </record>
+        <record>
+            <field name="Country or Area">Samoa</field>
+            <field name="Value">4295.92210435856</field>
+        </record>
+        <record>
+            <field name="Country or Area">San Marino</field>
+            <field name="Value">58390.3518850455</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sao Tome and Principe</field>
+            <field name="Value">1968.1883640267</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saudi Arabia</field>
+            <field name="Value">24406.4733910856</field>
+        </record>
+        <record>
+            <field name="Country or Area">Senegal</field>
+            <field name="Value">1043.39902657133</field>
+        </record>
+        <record>
+            <field name="Country or Area">Serbia</field>
+            <field name="Value">6203.16522348021</field>
+        </record>
+        <record>
+            <field name="Country or Area">Seychelles</field>
+            <field name="Value">14074.042041286</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sierra Leone</field>
+            <field name="Value">794.125710340696</field>
+        </record>
+        <record>
+            <field name="Country or Area">Singapore</field>
+            <field name="Value">55634.604480207</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sint Maarten (Dutch part)</field>
+            <field name="Value">28084.7599377792</field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovakia</field>
+            <field name="Value">18580.7080410504</field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovenia</field>
+            <field name="Value">23973.1446476492</field>
+        </record>
+        <record>
+            <field name="Country or Area">Solomon Islands</field>
+            <field name="Value">1924.00594212547</field>
+        </record>
+        <record>
+            <field name="Country or Area">Somalia</field>
+            <field name="Value">148.785202538242</field>
+        </record>
+        <record>
+            <field name="Country or Area">South Africa</field>
+            <field name="Value">6509.40358545392</field>
+        </record>
+        <record>
+            <field name="Country or Area">South Sudan</field>
+            <field name="Value">1348.43217339381</field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Value">29741.9910169103</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Value">3881.14563230443</field>
+        </record>
+        <record>
+            <field name="Country or Area">State of Palestine</field>
+            <field name="Value">2799.52329989549</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sudan</field>
+            <field name="Value">1762.36723984463</field>
+        </record>
+        <record>
+            <field name="Country or Area">Suriname</field>
+            <field name="Value">9736.65231707993</field>
+        </record>
+        <record>
+            <field name="Country or Area">Swaziland</field>
+            <field name="Value">3539.93282324206</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sweden</field>
+            <field name="Value">59136.6703444117</field>
+        </record>
+        <record>
+            <field name="Country or Area">Switzerland</field>
+            <field name="Value">85577.0026691707</field>
+        </record>
+        <record>
+            <field name="Country or Area">Syrian Arab Republic</field>
+            <field name="Value">1816.25108786316</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tajikistan</field>
+            <field name="Value">1113.40804939655</field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Value">5969.93717123152</field>
+        </record>
+        <record>
+            <field name="Country or Area">The former Yugoslav Republic of Macedonia</field>
+            <field name="Value">5474.14166506865</field>
+        </record>
+        <record>
+            <field name="Country or Area">Timor-Leste</field>
+            <field name="Value">3607.09008951407</field>
+        </record>
+        <record>
+            <field name="Country or Area">Togo</field>
+            <field name="Value">643.10047679945</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tonga</field>
+            <field name="Value">4121.67698676131</field>
+        </record>
+        <record>
+            <field name="Country or Area">Trinidad and Tobago</field>
+            <field name="Value">20130.94179268</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tunisia</field>
+            <field name="Value">4277.02592903245</field>
+        </record>
+        <record>
+            <field name="Country or Area">Turkey</field>
+            <field name="Value">10298.9518244649</field>
+        </record>
+        <record>
+            <field name="Country or Area">Turkmenistan</field>
+            <field name="Value">8193.72029690444</field>
+        </record>
+        <record>
+            <field name="Country or Area">Turks and Caicos Islands</field>
+            <field name="Value">23614.6741849437</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Value">3795.98913086928</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Value">749.557870323121</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Value">2966.58799137238</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Arab Emirates</field>
+            <field name="Value">44238.5910927415</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom of Great Britain and Northern Ireland</field>
+            <field name="Value">46615.4317051729</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Republic of Tanzania: Mainland</field>
+            <field name="Value">955.467056120809</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Republic of Tanzania: Zanzibar</field>
+            <field name="Value">936.248838448893</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Value">54447.260525772</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uruguay</field>
+            <field name="Value">16738.0243332369</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uzbekistan</field>
+            <field name="Value">2138.78081974154</field>
+        </record>
+        <record>
+            <field name="Country or Area">Vanuatu</field>
+            <field name="Value">3147.89743390036</field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela (Bolivarian Republic of)</field>
+            <field name="Value">11835.1562224463</field>
+        </record>
+        <record>
+            <field name="Country or Area">Viet Nam</field>
+            <field name="Value">2014.69300884006</field>
+        </record>
+        <record>
+            <field name="Country or Area">Yemen</field>
+            <field name="Value">1298.92276589529</field>
+        </record>
+        <record>
+            <field name="Country or Area">Zambia</field>
+            <field name="Value">1725.99153041354</field>
+        </record>
+        <record>
+            <field name="Country or Area">Zimbabwe</field>
+            <field name="Value">931.203923951789</field>
+        </record>
+    </data>
+</ROOT>
