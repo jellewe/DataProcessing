@@ -1,0 +1,18 @@
+/* Jelle Witsen Elias, university of Amsterdam, studentno. 10753532 */
+
+rect {
+  fill: green;
+}
+.axis text {
+  font: 10px sans-serif;
+}
+.axis path,
+.axis line {
+  fill:none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+x.axis path {
+  display: none;
+}
